@@ -1,0 +1,53 @@
+#footer{
+    text-align: center;
+    color: black;
+    font-family: 'Roboto', sans-serif !important;
+}
+body
+{
+    background-color: rgb(231, 215, 197);
+    overflow-x: hidden;
+}
+.feature-box img
+{
+    width: 30%;
+    height: 40%;
+    border-radius:100%;
+    margin: 20px;
+}
+.image
+{
+    width: 15%;
+    height: 40%;
+    border-radius:100%;
+    margin: 20px;
+}
+.row
+{
+    overflow:hidden;
+}
+.nav-item
+{
+    padding: 0px 18px;
+}
+.nav-link
+{
+    color: red !important;
+    font-weight: 400;
+    font-size:medium;
+}
+a{
+    text-decoration: none;
+}
+.navbar-brand
+{
+    color: red !important;
+    font-weight: bold;
+    padding-left: 1rem;
+}
+.active
+{
+    font-weight: bold !important;
+}
+
+

@@ -1,0 +1,49 @@
+body
+{
+    overflow-x: hidden;
+}
+body
+{
+    background-color: rgb(231, 215, 197);
+}
+#footer{
+    text-align: center;
+    color: black;
+    font-family: 'Roboto', sans-serif !important;
+    padding-top: 0%;
+}
+.nav-item
+{
+    padding: 0px 18px;
+}
+.nav-link
+{
+    color: red !important;
+    font-weight: 400;
+    font-size:medium;
+}
+a{
+    text-decoration: none;
+}
+.links h4:hover
+{
+    color: blue;
+}
+.navbar-brand
+{
+    color: red !important;
+    font-weight: bold;
+    padding-left: 1rem;
+}
+.active
+{
+    font-weight: bold !important;
+}
+.row
+{
+    padding: 5%;
+}
+h4
+{
+    color: red;
+}

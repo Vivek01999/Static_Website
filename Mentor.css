@@ -1,0 +1,49 @@
+#footer{
+    text-align: center;
+    color: black;
+    font-family: 'Roboto', sans-serif !important;
+}
+body
+{
+    background-color: rgb(231, 215, 197);
+    overflow-x: hidden;
+}
+.feature-box img
+{
+    width: 50%;
+    height: 50%;
+    border-radius:100%;
+    margin: 20px;
+}
+.image
+{
+    width: 12%;
+    height: 50%;
+    border-radius:100%;
+    margin: 20px;
+}
+.row
+{
+    margin: 1.5rem;
+}
+.nav-item
+{
+    padding: 0px 18px;
+}
+.nav-link
+{
+    color: red !important;
+    font-weight: 400;
+    font-size:medium;
+}
+.navbar-brand
+{
+    color: red !important;
+    font-weight: bold;
+    padding-left: 1rem;
+}
+.active
+{
+    font-weight: bold !important;
+}
+
