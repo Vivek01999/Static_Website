@@ -14,16 +14,16 @@
 }
 .nav-link
 {
-    color : white  !important;
+    color : seagreen !important;
     font-weight: 400;
-    font-size:medium;
+    font-size:1.5rem;
 }
 .active
 {
     font-weight: bold;
 }
 body{
-    background-image: url('images/4578691.jpg');
+    background-image: url('images/bg-img-1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
@@ -32,7 +32,7 @@ body{
 .big-heading
 {   padding: 16%;
     text-align: center;
-    color: rgb(51, 208, 166);
+    color: navy !important;
     font-family:'Times New Roman', Times, serif;
     font-weight: bold;
     text-shadow: 5px 10px 50px #0c0b0b,5px 10px 50px #0a4ee0;
