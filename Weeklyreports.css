@@ -10,7 +10,10 @@ body
 }
 body
 {
-    background-color: rgb(231, 215, 197);
+    background-image: url('images/4578832.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow:scroll;
 }
 .nav-item
 {
@@ -18,9 +21,9 @@ body
 }
 .nav-link
 {
-    color: red !important;
-    font-weight: 400;
-    font-size:medium;
+    color:springgreen !important;
+    font-weight:400px;
+    font-size:1.5rem;
 }
 a{
     text-decoration: none;
